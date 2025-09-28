@@ -4,6 +4,6 @@
 
 | Integrantes            | RA       | 
 |------------------------|----------|
-| Enzo Guarnieri         |          | 
+| Enzo Guarnieri         | 10410074 | 
 | Gustavo Vilela Mitraud |          | 
 | Júlia Campolim de Oste | 10408802 | 
